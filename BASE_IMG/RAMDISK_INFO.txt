@@ -1,0 +1,12 @@
+Parsing boot image: [/home/j/extract-via-magiskboot/vendor_boot.img]
+VENDOR_BOOT_HDR
+HEADER_VER      [4]
+RAMDISK_SZ      [36619031]
+DTB_SZ          [4270928]
+PAGESIZE        [4096]
+NAME            [SRPXH13A004]
+CMDLINE         [video=vfb:640x400,bpp=32,memsize=3072000 msm_geni_serial.con_enabled=0 printk.devkmsg=on firmware_class.path=/vendor/firmware_mnt/image bootconfig loop.max_part=7]
+RAMDISK_FMT     [lz4_legacy]
+RAMDISK_FMT_recovery [lz4_legacy]
+unexpected ASN.1 DER tag: expected SEQUENCE, got APPLICATION [19] (primitive)
+VBMETA
