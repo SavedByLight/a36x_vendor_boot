@@ -1,2 +1,2 @@
-# a36x_vendor_boot
+# a36xq_vendor_boot
 extracted stock vendor_boot
